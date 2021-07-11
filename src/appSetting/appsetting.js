@@ -1,3 +1,3 @@
 export default {
-    serverBaseUrl: "https://olxserver.herokuapp.com/"
+    serverBaseUrl: "https://olxserver.herokuapp.com"
 }
